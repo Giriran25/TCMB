@@ -1,0 +1,9 @@
+language_code,language,source,configuration,target_tokens,actual_tokens,target_reached,accepted_documents,scanned_documents,unique_domains,short_documents_rejected,wrong_language_rejected,wrong_script_rejected,low_script_ratio_rejected,duplicate_documents_rejected,evaluation_overlaps_rejected,oversized_documents_rejected,invalid_documents_rejected,output_file
+eng_Latn,English,HuggingFaceFW/fineweb,sample-10BT,100000,100182,True,125,129,124,4,0,0,0,0,0,0,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\eng_Latn\documents.jsonl
+tam_Taml,Tamil,HuggingFaceFW/fineweb-2,tam_Taml,100000,100125,True,110,112,101,1,0,0,0,0,0,1,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\tam_Taml\documents.jsonl
+tel_Telu,Telugu,HuggingFaceFW/fineweb-2,tel_Telu,100000,101866,True,100,103,76,0,0,0,3,0,0,0,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\tel_Telu\documents.jsonl
+kan_Knda,Kannada,HuggingFaceFW/fineweb-2,kan_Knda,100000,101433,True,135,136,77,0,0,0,1,0,0,0,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\kan_Knda\documents.jsonl
+mal_Mlym,Malayalam,HuggingFaceFW/fineweb-2,mal_Mlym,100000,100697,True,151,153,101,0,0,0,2,0,0,0,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\mal_Mlym\documents.jsonl
+hin_Deva,Hindi,HuggingFaceFW/fineweb-2,hin_Deva,100000,100259,True,142,151,121,4,0,0,4,0,0,1,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\hin_Deva\documents.jsonl
+cmn_Hans,Chinese,HuggingFaceFW/fineweb-2,cmn_Hani,100000,100576,True,112,135,110,21,0,0,1,0,0,1,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\cmn_Hans\documents.jsonl
+jpn_Jpan,Japanese,HuggingFaceFW/fineweb-2,jpn_Jpan,100000,100246,True,129,153,125,20,0,0,1,0,0,3,0,C:\Users\Ranjith Kumar G\Documents\TCMB\data\calibration_pilot\jpn_Jpan\documents.jsonl

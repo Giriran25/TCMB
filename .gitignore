@@ -1,0 +1,33 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Datasets - DO NOT UPLOAD
+data/flores_plus/
+data/sib200/
+data/calibration/
+data/calibration_pilot/
+
+# Models and caches
+models/
+.cache/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.arrow
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

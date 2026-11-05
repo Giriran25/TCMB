@@ -1,0 +1,9 @@
+language_code,language,documents,actual_xlmr_tokens,target_tokens,target_reached,token_mismatches,duplicate_hashes,exact_flores_overlapping_documents,flores_sentences_checked,short_flores_sentences_not_checked,chinese_conversion_failures,unique_domains,minimum_document_characters,maximum_document_characters,minimum_document_tokens,maximum_document_tokens
+eng_Latn,English,125,100182,100000,True,0,0,0,2008,0,0,124,390,33072,102,8223
+tam_Taml,Tamil,110,100125,100000,True,0,0,0,2009,0,0,101,479,20039,106,5510
+tel_Telu,Telugu,100,101866,100000,True,0,0,0,2008,0,0,76,423,19396,131,6708
+kan_Knda,Kannada,135,101433,100000,True,0,0,0,2009,0,0,77,403,21329,120,6270
+mal_Mlym,Malayalam,151,100697,100000,True,0,0,0,2009,0,0,101,503,13535,118,3438
+hin_Deva,Hindi,142,100259,100000,True,0,0,0,2009,0,0,121,350,24499,104,7149
+cmn_Hans,Chinese,112,100576,100000,True,0,0,0,1550,0,0,110,312,5277,175,3323
+jpn_Jpan,Japanese,129,100246,100000,True,0,0,0,1893,0,0,125,318,9493,157,5670
